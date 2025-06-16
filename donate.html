@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Donate</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      padding: 2em;
+      max-width: 800px;
+      margin: auto;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    h1 {
+      color: #444;
+    }
+    .section {
+      margin-top: 2em;
+    }
+    .qrcode-container img {
+      width: 200px;
+      margin: 1em;
+      border: 1px solid #ccc;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>欢迎支持我们</h1>
+  <p></p>捐赠对我们来说非常重要。 这是保持服务正常运行的最安全、最可靠的方式。感谢你的支持！</p>
+  <div/>
+  <p>If you find our service helpful, consider donating to keep us running!</p>
+
+  <!-- ✅ PayPal Section -->
+  <div class="section">
+    <h2>💳 捐助方式：PayPal </h2>
+    <div id="paypal-container-7JB283Z8ZXMA2"></div>
+
+    <!-- Include PayPal SDK -->
+    <script 
+      src="https://www.paypal.com/sdk/js?client-id=BAAykaLQoFj7r29ykpA6SOa8j4gx8GkSGHijf9Rg7xxt6s9EjWNCVeKWiyDygBJANJ90Uw5GV90mCTWMj0&components=hosted-buttons&disable-funding=venmo&currency=NZD">
+    </script>
+
+    <!-- Render Hosted Button -->
+    <script>
+      paypal.HostedButtons({
+        hostedButtonId: "7JB283Z8ZXMA2",
+      }).render("#paypal-container-7JB283Z8ZXMA2");
+    </script>
+  </div>
+
+  <div class="section">
+    <h2>📱 捐助方式： 微信 / 支付宝 (WeChat / Alipay)</h2>
+    <div class="qrcode-container">
+      <img src="/donation/WeChatQR.png" alt="WeChat Pay QR Code" />
+      <img src="/donation/AliPayQR.png" alt="Alipay QR Code" />
+    </div>
+    <p>Scan the QR code using your mobile wallet app to complete your donation.</p>
+  </div>
+
+</body>
+</html>
