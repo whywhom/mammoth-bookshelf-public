@@ -2,94 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>IT on i 悦读</title>
-    <link>http://localhost:1313/tags/it/</link>
+    <link>https://iyuedu.top/tags/it/</link>
     <description>Recent content in IT on i 悦读</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Wed, 19 Feb 2025 06:01:26 +1300</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/it/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://iyuedu.top/tags/it/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>深度学习</title>
-      <link>http://localhost:1313/posts/books/deep-learning-adaptive/</link>
+      <link>https://iyuedu.top/posts/books/deep-learning-adaptive/</link>
       <pubDate>Wed, 19 Feb 2025 06:01:26 +1300</pubDate>
-      <guid>http://localhost:1313/posts/books/deep-learning-adaptive/</guid>
+      <guid>https://iyuedu.top/posts/books/deep-learning-adaptive/</guid>
       <description>&lt;h1 id=&#34;deep-learning-adaptive-computation-and-machine-learning-series&#34;&gt;Deep Learning: Adaptive Computation and Machine Learning series&lt;/h1&gt;&#xA;&lt;h2 id=&#34;内容简介-------&#34;&gt;内容简介  · · · · · ·&lt;/h2&gt;&#xA;&lt;p&gt;《深度学习》由全球知名的三位专家Ian Goodfellow、Yoshua Bengio 和Aaron Courville撰写，是深度学习领域奠基性的经典教材。全书的内容包括3个部分：&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Principles Of Deep Learning Theory</title>
-      <link>http://localhost:1313/posts/books/the-principles-of-deep-learning-theory/</link>
+      <link>https://iyuedu.top/posts/books/the-principles-of-deep-learning-theory/</link>
       <pubDate>Wed, 05 Feb 2025 06:01:26 +1300</pubDate>
-      <guid>http://localhost:1313/posts/books/the-principles-of-deep-learning-theory/</guid>
+      <guid>https://iyuedu.top/posts/books/the-principles-of-deep-learning-theory/</guid>
       <description>&lt;h2 id=&#34;内容简介-------&#34;&gt;内容简介  · · · · · ·&lt;/h2&gt;&#xA;&lt;p&gt;本教科书建立了一个理论框架，用于理解具有实际意义的深度学习模型。&lt;/p&gt;&#xA;&lt;p&gt;Roberts 和 Yaida 借鉴了理论物理学的方法，对现实的深度神经网络的实际工作方式提供了清晰而富有教学意义的解释。为了使理论前沿的结果易于理解，作者摒弃了该学科传统上强调的令人生畏的形式主义，同时又不牺牲准确性。&lt;/p&gt;&#xA;&lt;p&gt;本书直截了当、通俗易懂，在新颖结果的详细第一性原理推导与理论家和实践者的洞察力和直觉之间取得了平衡。&lt;/p&gt;&#xA;&lt;p&gt;这本独立的教科书非常适合对人工智能感兴趣的学生和研究人员，他们只需要具备线性代数、微积分和非形式概率论的最低先决条件，它可以轻松填满一学期的深度学习理论课程。&lt;/p&gt;&#xA;&lt;p&gt;这是第一次，现代人工智能能力中令人兴奋的实际进步可以与一套有效的原则相匹配，为深度学习的理论研究提供了永恒的蓝图。&lt;/p&gt;&#xA;&lt;h2 id=&#34;作者简介-------&#34;&gt;作者简介  · · · · · ·&lt;/h2&gt;&#xA;&lt;p&gt;Dan Roberts (&lt;a href=&#34;https://danintheory.com&#34;&gt;https://danintheory.com&lt;/a&gt;) 目前是麻省理工学院理论物理中心的研究员、美国国家科学基金会人工智能与基本相互作用研究所的附属机构以及 Salesforce 的首席研究员。此前，他是 Salesforce 收购的协作人工智能公司 Diffeo 的联合创始人兼首席技术官、纽约 Facebook 人工智能研究中心 (FAIR) 的研究科学家以及新泽西州普林斯顿高等研究院自然科学学院的成员。Dan 获得了麻省理工学院的博士学位，资助方为赫兹基金会奖学金和 NDSEG，并以马歇尔学者的身份在剑桥大学和牛津大学学习。Dan 的研究集中在物理学和计算之间的相互作用上，之前他专注于黑洞、量子混沌、计算复杂性、随机性之间的关系，以及物理定律与计算基本极限的关系。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Probabilistic Machine Learning: Advanced Topics</title>
-      <link>http://localhost:1313/posts/books/probabilistic-machine-learning-advanced-topics/</link>
+      <link>https://iyuedu.top/posts/books/probabilistic-machine-learning-advanced-topics/</link>
       <pubDate>Mon, 03 Feb 2025 06:01:26 +1300</pubDate>
-      <guid>http://localhost:1313/posts/books/probabilistic-machine-learning-advanced-topics/</guid>
+      <guid>https://iyuedu.top/posts/books/probabilistic-machine-learning-advanced-topics/</guid>
       <description>&lt;h2 id=&#34;内容简介-------&#34;&gt;内容简介  · · · · · ·&lt;/h2&gt;&#xA;&lt;p&gt;这是一本高级书籍，适合从事机器学习和统计学工作的研究人员和研究生，他们想要了解深度学习、贝叶斯推理、生成模型和不确定情况下的决策。&lt;/p&gt;&#xA;&lt;p&gt;《Probabilistic Machine Learning:Advanced Topics》是一本面向机器学习深度学习研究者的书，围绕概率方法在深度学习中的应用展开。书中内容涵盖变分推断、马尔可夫链蒙特卡洛方法(MCMC)、生成模型(如变分自编码器和生成对抗网络)、贝叶斯优化和强化学习等主题。它通过深入的理论讲解和具体的案例分析，帮助大家理解复杂的概率建模与推断，并提供代码示例，便于实践操作。&lt;/p&gt;&#xA;&lt;p&gt;这本严谨的书得到了来自谷歌、DeepMind、亚马逊、普渡大学、纽约大学和华盛顿大学等地的顶尖科学家和领域专家的贡献，对于理解机器学习中的关键问题至关重要。&lt;/p&gt;&#xA;&lt;p&gt;涵盖高维输出的生成，例如图像、文本和图形&#xA;讨论基于潜在变量模型发现数据洞察的方法&#xA;考虑不同分布下的训练和测试&#xA;探索如何使用概率模型和推理进行因果推理和决策&#xA;提供在线 Python 代码&lt;/p&gt;</description>
     </item>
     <item>
       <title>Probabilistic Machine Learning: An Introduction 2022</title>
-      <link>http://localhost:1313/posts/books/probabilistic-machine-learning-an-introduction/</link>
+      <link>https://iyuedu.top/posts/books/probabilistic-machine-learning-an-introduction/</link>
       <pubDate>Mon, 03 Feb 2025 06:01:26 +1300</pubDate>
-      <guid>http://localhost:1313/posts/books/probabilistic-machine-learning-an-introduction/</guid>
+      <guid>https://iyuedu.top/posts/books/probabilistic-machine-learning-an-introduction/</guid>
       <description>&lt;h2 id=&#34;内容简介-------&#34;&gt;内容简介  · · · · · ·&lt;/h2&gt;&#xA;&lt;p&gt;通过概率建模和贝叶斯决策理论的统一视角，对机器学习进行详细且最新的介绍。通过概率建模&lt;/p&gt;&#xA;&lt;p&gt;和贝叶斯决策理论的统一视角，对机器学习进行详细且最新的介绍。&lt;/p&gt;&#xA;&lt;p&gt;本书通过概率建模和贝叶斯决策理论的统一视角，对机器学习（包括深度学习）进行详细且最新的介绍。本书涵盖了数学背景（包括线性代数和优化）、基本监督学习（包括线性和逻辑回归和深度神经网络）以及更高级的主题（包括迁移学习和无监督学习）。章末练习让学生可以学以致用，附录涵盖了符号。&lt;/p&gt;&#xA;&lt;p&gt;概率机器学习源自作者 2012 年出版的《机器学习——概率视角》一书。这不仅仅是一次简单的更新，而是一本全新的书，反映了自 2012 年以来该领域的巨大发展，最显著的是深度学习。此外，新书还附有在线 Python 代码，使用 scikit-learn、JAX、PyTorch 和 Tensorflow 等库，可用于重现几乎所有图形；这些代码可以使用基于云的笔记本在 Web 浏览器中运行，并为书中讨论的理论主题提供实用补充。本入门教材之后将有续集，采用相同的概率方法，涵盖更高级的主题。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Neural Networks and Deep Learning：A Textbook</title>
-      <link>http://localhost:1313/posts/books/neural-networks-and-deep-learning/</link>
+      <link>https://iyuedu.top/posts/books/neural-networks-and-deep-learning/</link>
       <pubDate>Mon, 03 Feb 2025 06:01:25 +1300</pubDate>
-      <guid>http://localhost:1313/posts/books/neural-networks-and-deep-learning/</guid>
+      <guid>https://iyuedu.top/posts/books/neural-networks-and-deep-learning/</guid>
       <description>&lt;h2 id=&#34;内容简介-------&#34;&gt;内容简介  · · · · · ·&lt;/h2&gt;&#xA;&lt;p&gt;如果给初学深度学习神经网络的同学们推荐一本书，那肯定会推荐这本书由Charu C.Aggarwal 编写的《Neural Networks and DeepLearning：ATextbook》。&lt;/p&gt;&#xA;&lt;p&gt;真的很全面很通俗！完美解决了初学者不知道怎么学、从哪开始学、怎么系统学等等问题！&lt;/p&gt;&#xA;&lt;p&gt;本书涵盖了深度学习中的经典和现代模型。主要关注深度学习的理论和算法。神经网络的理论和算法对于理解重要概念尤为重要，这样人们才能理解神经架构在不同应用中的重要设计概念。为什么神经网络有效？它们什么时候比现成的机器学习模型更好？深度什么时候有用？为什么训练神经网络如此困难？有哪些陷阱？本书还大量讨论了不同的应用，以便让实践者了解神经架构是如何为不同类型的问题设计的。详细介绍了针对各种数据域（例如文本、图像和图形）的深度学习方法。本书的章节涵盖三个类别：&lt;/p&gt;&#xA;&lt;p&gt;神经网络基础：第 2 章讨论了反向传播算法。&lt;/p&gt;&#xA;&lt;p&gt;许多传统的机器学习模型可以理解为神经网络的特例。第 3 章探讨了传统机器学习与神经网络之间的联系。支持向量机、线性/逻辑回归、奇异值分解、矩阵分解和推荐系统被证明是神经网络的特例。&lt;/p&gt;</description>
     </item>
     <item>
       <title>软件设计哲学 A Philosophy of Software Design</title>
-      <link>http://localhost:1313/posts/books/a-philosophy-of-software-design/</link>
+      <link>https://iyuedu.top/posts/books/a-philosophy-of-software-design/</link>
       <pubDate>Mon, 13 Jan 2025 06:01:08 +1300</pubDate>
-      <guid>http://localhost:1313/posts/books/a-philosophy-of-software-design/</guid>
+      <guid>https://iyuedu.top/posts/books/a-philosophy-of-software-design/</guid>
       <description>&lt;h2 id=&#34;内容简介-------&#34;&gt;内容简介  · · · · · ·&lt;/h2&gt;&#xA;&lt;p&gt;本书探讨了软件设计的主题：如何将复杂的软件系统分解为可以相对独立实现的模块（例如类和方法）。&lt;/p&gt;&#xA;&lt;p&gt;本书首先介绍了软件设计中的基本问题，即管理复杂性。然后讨论了如何处理软件设计过程的哲学问题，并介绍了在软件设计过程中应用的一系列设计原则。本书还介绍了一组识别设计问题的危险信号。&lt;/p&gt;&#xA;&lt;p&gt;您可以应用本书中的想法来最大限度地降低大型软件系统的复杂性，以便您可以更快、更便宜地编写软件。&lt;/p&gt;&#xA;&lt;h2 id=&#34;作者简介-------&#34;&gt;作者简介  · · · · · ·&lt;/h2&gt;&#xA;&lt;p&gt;John Kenneth Ousterhout is an American computer scientist. He is a professor of computer science at Stanford University. He founded Electric Cloud with John Graham-Cumming.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Linux内核设计与实现(原书第3版)</title>
-      <link>http://localhost:1313/posts/books/linux-kernel-development/</link>
+      <link>https://iyuedu.top/posts/books/linux-kernel-development/</link>
       <pubDate>Mon, 16 Dec 2024 06:01:02 +1300</pubDate>
-      <guid>http://localhost:1313/posts/books/linux-kernel-development/</guid>
+      <guid>https://iyuedu.top/posts/books/linux-kernel-development/</guid>
       <description>&lt;h2 id=&#34;内容简介-------&#34;&gt;内容简介  · · · · · ·&lt;/h2&gt;&#xA;&lt;p&gt;本书详细描述了Linux内核的设计与实现。内核代码的编写者、开发者以及程序开发人员都可以通过阅读本书受益，他们可以更好理解操作系统原理，并将其应用在自己的编码中以提高效率和生产率。&lt;/p&gt;&#xA;&lt;p&gt;本书详细描述了Linux内核的主要子系统和特点，包括Linux内核的设计、实现和接口。从理论到实践涵盖了Linux内核的方方面面，可以满足读者的各种兴趣和需求。&lt;/p&gt;&#xA;&lt;p&gt;作者Robert Love是一位Linux内核核心开发人员，他分享了在开发Linux2.6内核过程中颇具价值的知识和经验。本书的主题包括进程管理、进程调度、时间管理和定时器、系统调用接口、内存寻址、内存管理和页缓存、VFS、内核同步、移植性相关的问题以及调试技术；同时也涵盖了Linux2.6内核中颇具特色的内容，包括CFS调度程序、抢占式内核、块I/O层以及I/O调度程序。&lt;/p&gt;&#xA;&lt;h2 id=&#34;作者简介-------&#34;&gt;作者简介  · · · · · ·&lt;/h2&gt;&#xA;&lt;p&gt;Robert Love 是一位资深的开源社区达人，很早就开始使用Linux。目前他是Google公司高级软件工程师，是开发Android移动平台内核的团队成员；他曾在Novell公司任职Linux桌面系统的首席架构师；他之前也曾是MontaVista和Ximain公司的内核开发工程师。他参与的内核项目包括抢占式内核、进程调度器、内核事件层、通知机制、VM改进，以及设备驱动程序。他是《Linux journal》杂志的编辑。另外他还著有《Linux System Programming》和《Linux in a Nutshell》。&lt;/p&gt;</description>
     </item>
     <item>
       <title>深入理解LINUX内核(第三版)</title>
-      <link>http://localhost:1313/posts/books/shen-ru-li-jie-linux-nei-he-3/</link>
+      <link>https://iyuedu.top/posts/books/shen-ru-li-jie-linux-nei-he-3/</link>
       <pubDate>Fri, 13 Dec 2024 06:01:02 +1300</pubDate>
-      <guid>http://localhost:1313/posts/books/shen-ru-li-jie-linux-nei-he-3/</guid>
+      <guid>https://iyuedu.top/posts/books/shen-ru-li-jie-linux-nei-he-3/</guid>
       <description>&lt;h2 id=&#34;内容简介-------&#34;&gt;内容简介  · · · · · ·&lt;/h2&gt;&#xA;&lt;p&gt;为了彻底理解是什么使得Linux能正常运行以及其为何能在各种不同的系统中运行良好，你需要深入研究内核最本质的部分。内核处理CPU与外界间的所有交互，并且决定哪些程序将以什么顺序共享处理器时间。它如此有效地管理有限的内存，以至成百上千的进程能高效地共享系统。它熟练地统筹数据传输，这样CPU 不用为等待速度相对较慢的硬盘而消耗比正常耗时更长的时间。&lt;/p&gt;&#xA;&lt;p&gt;《深入理解Linux内核，第三版》指导你对内核中使用的最重要的数据结构、算法和程序设计诀窍进行一次遍历。通过对表面特性的探究，作者给那些想知道自己机器工作原理的人提供了颇有价值的见解。书中讨论了Intel特有的重要性质。相关的代码片段被逐行剖析。然而，本书涵盖的不仅仅是代码的功能，它解释了Linux以自己的方式工作的理论基础。&lt;/p&gt;&#xA;&lt;p&gt;本书新版涵盖2.6版本，其在内核的几乎每个子系统中都有重要的变化，尤其是在内存管理和块设备领域。本书侧重于以下主题：&lt;/p&gt;&#xA;&lt;p&gt;●内存管理，包括文件缓存、进程交换和直接内存存取（DMA）&lt;/p&gt;&#xA;&lt;p&gt;●虚拟文件系统层和第二、第三扩展文件系统&lt;/p&gt;&#xA;&lt;p&gt;●进程创建和调度&lt;/p&gt;&#xA;&lt;p&gt;●信号、中断和设备驱动程序的主要接口&lt;/p&gt;&#xA;&lt;p&gt;●定时&lt;/p&gt;&#xA;&lt;p&gt;●内核中的同步&lt;/p&gt;&#xA;&lt;p&gt;●进程间通信（IPC）&lt;/p&gt;&#xA;&lt;p&gt;●程序的执行&lt;/p&gt;&#xA;&lt;p&gt;《深入理解Linux内核》将使你了解Linux的所有内部工作，它不仅仅是一个理论上的练习。你将学习到哪些情况下Linux性能最佳，并且你将看到，在大量的不同环境里进行进程调度、文件存取和内存管理时它如何满足提供良好的系统响应的需要。这本书将帮助你充分利用Linux系统。&lt;/p&gt;</description>
     </item>
     <item>
       <title>程序员超强大脑 The Programmer&#39;s Brain</title>
-      <link>http://localhost:1313/posts/books/the-programmers-brain/</link>
+      <link>https://iyuedu.top/posts/books/the-programmers-brain/</link>
       <pubDate>Fri, 29 Nov 2024 06:01:13 +1300</pubDate>
-      <guid>http://localhost:1313/posts/books/the-programmers-brain/</guid>
+      <guid>https://iyuedu.top/posts/books/the-programmers-brain/</guid>
       <description>&lt;h2 id=&#34;内容简介-------&#34;&gt;内容简介  · · · · · ·&lt;/h2&gt;&#xA;&lt;p&gt;为什么你在写代码时总会遇到这样或那样的问题？为什么你总是记错某些语法？为什么有些人能够快速学会新的编程语言，而有些人则不能？在试图解决困难或复杂的问题时，我们的大脑其实有一套特定的工作方式。本书从认知科学角度剖析优秀程序设计背后的脑科学原理，为你揭开大脑思考编程的奥秘。本书分为四大部分，共有13章。你将了解如下内容：如何高效地学习新的编程语言，如何快速地理解复杂的代码，如何牢固地记住各种语法，如何在繁杂的程序设计工作中优化认知资源。&lt;/p&gt;&#xA;&lt;p&gt;编辑推荐&lt;/p&gt;&#xA;&lt;p&gt;随着ChatGPT横空出世，作为程序员的你是否已经有了危机感？在自己编写代码和理解他人所写代码这两个方面，人工智能是否已经超越了人类程序员？无论人工智能如何“进化”，有一点是它无法取代的，那就是人类程序员的超强大脑。本书是专为程序员而写的大脑使用指南，旨在帮助程序员用好自己的认知优势。&lt;/p&gt;&#xA;&lt;p&gt;本书作者指出，程序设计是一个认知过程，这个过程对程序员的认知要求颇高。因此，本书从认知科学的角度帮助程序员了解大脑工作机制，从根本上提高程序设计工作的效率。&lt;/p&gt;&#xA;&lt;p&gt;本书特点&lt;/p&gt;&#xA;&lt;p&gt;●有助于理解大脑如何加工与代码相关的信息。&lt;/p&gt;&#xA;&lt;p&gt;●内容组织符合认知模式：代码阅读−代码思考−代码编写−代码协作。&lt;/p&gt;&#xA;&lt;p&gt;●助你醍醐灌顶，实现更快的代码读写速度、更高的工作效率、更少的返工。&lt;/p&gt;&#xA;&lt;p&gt;●以Python、JavaScript、Java等为例，但原理对所有语言都适用。&lt;/p&gt;&#xA;&lt;h2 id=&#34;作者简介-------&#34;&gt;作者简介  · · · · · ·&lt;/h2&gt;&#xA;&lt;p&gt;费莉安•赫尔曼斯（Felienne Hermans），荷兰莱顿大学副教授，致力于研究人类如何利用认知科学快速、高效地学习程序设计语言。费莉安对ChatGPT给软件工程领域带来的深远影响有独到见解，多次就这一话题接受媒体专访。她是TC39（JavaScript标准委员会） 成员，还自创了Hedy程序设计语言。&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to Build Your Career in AI</title>
-      <link>http://localhost:1313/posts/books/how-to-build-your-career-in-ai/</link>
+      <link>https://iyuedu.top/posts/books/how-to-build-your-career-in-ai/</link>
       <pubDate>Fri, 08 Nov 2024 06:01:03 +1300</pubDate>
-      <guid>http://localhost:1313/posts/books/how-to-build-your-career-in-ai/</guid>
+      <guid>https://iyuedu.top/posts/books/how-to-build-your-career-in-ai/</guid>
       <description>&lt;h2 id=&#34;内容简介-------&#34;&gt;内容简介  · · · · · ·&lt;/h2&gt;&#xA;&lt;p&gt;这是一本职业发展指导书,不是技术教程。它主要面向三类读者:&lt;/p&gt;&#xA;&lt;p&gt;想要进入AI领域的学生&#xA;希望转行到AI行业的专业人士&#xA;AI领域的初学者和新人&#xA;这本书最大的价值在于提供了全方位的AI职业发展建议，包括:&lt;/p&gt;&#xA;&lt;p&gt;如何掌握核心AI技能&#xA;求职面试技巧&#xA;如何打造个人项目作品集&#xA;如何建立和利用人脉网络&#xA;如何克服冒充者综合症&#xA;特别值得一提的是，这本书不要求读者具备技术背景。作者吴恩达是AI领域的资深专家,他创立了Deeplearning.AI和Coursera等知名平台,在谷歌和百度都领导过AI团队。他将自己多年的经验和见解都融入到了这本书中,为想要在AI领域发展的人提供了实用的职业指导。如果你想进入AI行业但不知从何开始，或者正在为职业发展感到迷茫,这本书会是一个很好的指南。&lt;/p&gt;&#xA;&lt;h2 id=&#34;作者简介-------&#34;&gt;作者简介  · · · · · ·&lt;/h2&gt;&#xA;&lt;p&gt;吴恩达（英语：Andrew Yan-Tak Ng，1976年4月18日—）是斯坦福大学计算机科学系和电气工程系的客座教授，曾任斯坦福人工智能实验室主任。他与达芙妮·科勒一起创建了在线教育平台Coursera。&lt;/p&gt;</description>
     </item>
     <item>
       <title>设计原本</title>
-      <link>http://localhost:1313/posts/books/she-ji-yuan-ben/</link>
+      <link>https://iyuedu.top/posts/books/she-ji-yuan-ben/</link>
       <pubDate>Thu, 26 Sep 2024 06:01:11 +1300</pubDate>
-      <guid>http://localhost:1313/posts/books/she-ji-yuan-ben/</guid>
+      <guid>https://iyuedu.top/posts/books/she-ji-yuan-ben/</guid>
       <description>&lt;h2 id=&#34;内容简介-------&#34;&gt;内容简介  · · · · · ·&lt;/h2&gt;&#xA;&lt;p&gt;如果你是干软件的，估计你大概率读过 Brooks 的《人月神话》。&lt;/p&gt;&#xA;&lt;p&gt;如果你是干架构的，推荐你读一下Brooks的《设计原本》。&lt;/p&gt;&#xA;&lt;p&gt;Brooks是谁？&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;图灵奖得主，美科学院院士，对计算机体系结构、操作系统、软件工程作出里程碑式贡献的计算机科学家；&lt;/li&gt;&#xA;&lt;li&gt;主持并领导了IBM/360系列计算机的架构设计与研发工作，人称IBM系统之父；&lt;/li&gt;&#xA;&lt;li&gt;创立北卡计算机系，担任20年系主任；&lt;/li&gt;&#xA;&lt;li&gt;美国国家科技局委员，美国国防科技局委员；&lt;/li&gt;&#xA;&lt;li&gt;ACM fellow，IEEE fellow&amp;hellip;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;画外音：大神级人物，都不知道从哪里介绍起了。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Machine Learning - A Probabilistic Perspective</title>
-      <link>http://localhost:1313/posts/books/machine-learning-a-probabilistic-perspective/</link>
+      <link>https://iyuedu.top/posts/books/machine-learning-a-probabilistic-perspective/</link>
       <pubDate>Fri, 12 Jul 2024 06:50:47 +1300</pubDate>
-      <guid>http://localhost:1313/posts/books/machine-learning-a-probabilistic-perspective/</guid>
+      <guid>https://iyuedu.top/posts/books/machine-learning-a-probabilistic-perspective/</guid>
       <description>&lt;h2 id=&#34;内容简介-------&#34;&gt;内容简介  · · · · · ·&lt;/h2&gt;&#xA;&lt;p&gt;随着电子形式的数据量的不断增加，对数据分析的自动化方法的需求也在不断增长。机器学习的目标是开发能够自动检测数据模式的方法，然后使用未发现的模式来预测未来的数据或其他感兴趣的结果。因此，机器学习与统计和数据挖掘领域密切相关，但在其重点和术语方面略有不同。这本书提供了该领域的详细介绍，并包括从应用领域，如分子生物学，文本处理，计算机视觉和机器人的工作示例。&lt;/p&gt;&#xA;&lt;h2 id=&#34;目标读者&#34;&gt;目标读者&lt;/h2&gt;&#xA;&lt;p&gt;本书适用于计算机科学、统计学、电子工程、计量经济学或其他任何具有适当数学背景的学科的高年级本科生和研究生。特别地，假定读者已经熟悉基本的多元微积分、概率论、线性代数和计算机编程。事先接触统计学是有帮助的，但不是必须的。&lt;/p&gt;&#xA;&lt;p&gt;“概率视角”是什么意思？&lt;/p&gt;&#xA;&lt;p&gt;本书采用了这样一种视角，即创造能从数据中学习的机器的最好方法是使用概率论的工具，几个世纪以来，概率论一直是统计学和工程学的支柱。概率论可以应用于任何涉及不确定性的问题。在机器学习中，不确定性有多种形式: 给定一些数据，什么是最好的预测(或决策)?给定数据的最佳模型是什么?接下来我应该执行什么度量?等。&lt;/p&gt;&#xA;&lt;p&gt;概率推理系统地应用于所有的推理问题，包括统计模型的推理参数，有时被称为贝叶斯方法。然而，这个词往往会引起非常强烈的反应(积极或消极，取决于你问谁)，所以我们更喜欢中性的术语“概率方法”。此外，我们将经常使用最大似然估计等技术，它们不是贝叶斯方法，但肯定属于概率范式。&lt;/p&gt;&#xA;&lt;p&gt;这本书并没有描述一本关于不同启发式方法的烹饪书，而是强调了一种基于模型的机器学习方法。对于任何给定的模型，通常可以应用多种算法。相反，任何给定的算法通常都可以应用于各种模型。这种模块化，即模型与算法的区别，是一种很好的教学方法，也是一种很好的工程技术。&lt;/p&gt;&#xA;&lt;p&gt;我们将经常使用图模型的语言以一种简洁和直观的方式来指定我们的模型。我们将看到，除了帮助理解之外，图结构还有助于开发有效的算法。然而，这本书主要不是关于图形模型的;它是关于概率建模的。&lt;/p&gt;&#xA;&lt;h2 id=&#34;作者简介-------&#34;&gt;作者简介  · · · · · ·&lt;/h2&gt;&#xA;&lt;p&gt;在加入谷歌之前，Kevin P. Murphy 是不列颠哥伦比亚大学（UBC）的终身副教授。他在加州大学伯克利分校获得博士学位。&lt;/p&gt;</description>
     </item>
   </channel>
