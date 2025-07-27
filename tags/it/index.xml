@@ -6,8 +6,15 @@
     <description>Recent content in IT on i 悦读</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 19 Feb 2025 06:01:26 +1300</lastBuildDate>
+    <lastBuildDate>Mon, 28 Jul 2025 06:02:51 +1300</lastBuildDate>
     <atom:link href="https://iyuedu.top/tags/it/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Head First 设计模式</title>
+      <link>https://iyuedu.top/posts/books/head-first-design-patterns/</link>
+      <pubDate>Mon, 28 Jul 2025 06:02:51 +1300</pubDate>
+      <guid>https://iyuedu.top/posts/books/head-first-design-patterns/</guid>
+      <description>&lt;h2 id=&#34;内容简介-------&#34;&gt;内容简介  · · · · · ·&lt;/h2&gt;&#xA;&lt;p&gt;你不想重新发明轮子（或者更差的是，漏气的轮子），所以你从设计模式中寻求协助——设计模式是过去人们面对同样的软件设计问题所学来的经验。有了设计模式，你就可以利用他人实践经验的精华，省下的时间可以用在……其他的事情上，一些更有挑战性的事情、更复杂的事情、更有趣的事情。你想要学习：&lt;/p&gt;&#xA;&lt;p&gt;*事关紧要的模式&#xA;*何时使用某个模式，为何使用该模式&#xA;*如何在自己的设计中马上采用这些模式&#xA;*何时不该使用模式（如何避免对模式过度狂热）&#xA;*模式是基于哪些面向对象设计原则而设计出来的&lt;/p&gt;&#xA;&lt;p&gt;更重要的是，你在学习设计模式的过程中不会感到昏昏欲睡。如果你曾经读过任何一本Head First系列书籍，就知道你能够从本书中得到的是：透过丰富的视觉效果让你的大脑充分地工作。本书的编写运用了许多最新的研究，包括神经生物学、认知科学，以及学习理论，这使得这本书能将这些设计模式深深地烙在你的脑海中，不容易被遗忘。你将更擅长于解决软件设计中的问，并能够和你的团队成员用模式的术语沟通。&#xA;Eric Freeman和Elisabeth Freeman是作家、讲师，以及技术顾问。原本在迪士尼公司领导了四年的数字媒体，以及Internet的开发，后来，他们将这些经验应用在他们自己的媒体中，包括本书。Eric具有耶鲁大学的计算机科学博士学位，Elisabeth具有耶鲁大学的计算机科学硕士学位。&#xA;Kathy Sierra（javaranch.com的创始者）和 Bert Bates是畅销的Head First系列书籍的创立者，也是Sun公司Java开发员认证考试的开发者。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>深度学习</title>
       <link>https://iyuedu.top/posts/books/deep-learning-adaptive/</link>
