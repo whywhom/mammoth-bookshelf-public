@@ -2,22 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://iyuedu.top/categories/</loc>
+    <lastmod>2025-08-01T06:02:51+13:00</lastmod>
+  </url><url>
+    <loc>https://iyuedu.top/</loc>
+    <lastmod>2025-08-01T06:02:51+13:00</lastmod>
+  </url><url>
+    <loc>https://iyuedu.top/posts/</loc>
+    <lastmod>2025-08-01T06:02:51+13:00</lastmod>
+  </url><url>
+    <loc>https://iyuedu.top/tags/</loc>
+    <lastmod>2025-08-01T06:02:51+13:00</lastmod>
+  </url><url>
+    <loc>https://iyuedu.top/tags/%E4%B8%AD%E6%96%87/</loc>
+    <lastmod>2025-08-01T06:02:51+13:00</lastmod>
+  </url><url>
+    <loc>https://iyuedu.top/tags/%E4%BC%A0%E8%AE%B0/</loc>
+    <lastmod>2025-08-01T06:02:51+13:00</lastmod>
+  </url><url>
+    <loc>https://iyuedu.top/tags/%E5%86%99%E4%BD%9C/</loc>
+    <lastmod>2025-08-01T06:02:51+13:00</lastmod>
+  </url><url>
+    <loc>https://iyuedu.top/posts/books/on-writing-a-memoir-of-the-craft/</loc>
+    <lastmod>2025-08-01T06:02:51+13:00</lastmod>
+  </url><url>
+    <loc>https://iyuedu.top/categories/%E5%9B%BE%E4%B9%A6/</loc>
+    <lastmod>2025-08-01T06:02:51+13:00</lastmod>
+  </url><url>
+    <loc>https://iyuedu.top/tags/%E8%8B%B1%E8%AF%AD/</loc>
+    <lastmod>2025-08-01T06:02:51+13:00</lastmod>
+  </url><url>
     <loc>https://iyuedu.top/tags/10/</loc>
     <lastmod>2025-08-01T05:49:08+13:00</lastmod>
   </url><url>
-    <loc>https://iyuedu.top/categories/</loc>
-    <lastmod>2025-08-01T05:49:08+13:00</lastmod>
-  </url><url>
     <loc>https://iyuedu.top/tags/feature/</loc>
-    <lastmod>2025-08-01T05:49:08+13:00</lastmod>
-  </url><url>
-    <loc>https://iyuedu.top/</loc>
-    <lastmod>2025-08-01T05:49:08+13:00</lastmod>
-  </url><url>
-    <loc>https://iyuedu.top/posts/</loc>
-    <lastmod>2025-08-01T05:49:08+13:00</lastmod>
-  </url><url>
-    <loc>https://iyuedu.top/tags/</loc>
     <lastmod>2025-08-01T05:49:08+13:00</lastmod>
   </url><url>
     <loc>https://iyuedu.top/categories/%E6%9C%9F%E5%88%8A/</loc>
@@ -29,16 +47,7 @@
     <loc>https://iyuedu.top/posts/magazine/the-yorker-20250804/</loc>
     <lastmod>2025-08-01T05:49:08+13:00</lastmod>
   </url><url>
-    <loc>https://iyuedu.top/tags/%E8%8B%B1%E8%AF%AD/</loc>
-    <lastmod>2025-08-01T05:49:08+13:00</lastmod>
-  </url><url>
     <loc>https://iyuedu.top/posts/books/nineteen-eighty-four/</loc>
-    <lastmod>2025-07-30T06:02:51+13:00</lastmod>
-  </url><url>
-    <loc>https://iyuedu.top/tags/%E4%B8%AD%E6%96%87/</loc>
-    <lastmod>2025-07-30T06:02:51+13:00</lastmod>
-  </url><url>
-    <loc>https://iyuedu.top/categories/%E5%9B%BE%E4%B9%A6/</loc>
     <lastmod>2025-07-30T06:02:51+13:00</lastmod>
   </url><url>
     <loc>https://iyuedu.top/tags/%E5%B0%8F%E8%AF%B4/</loc>
@@ -1544,9 +1553,6 @@
     <loc>https://iyuedu.top/posts/books/river-town/</loc>
     <lastmod>2024-08-02T06:52:48+13:00</lastmod>
   </url><url>
-    <loc>https://iyuedu.top/tags/%E4%BC%A0%E8%AE%B0/</loc>
-    <lastmod>2024-08-02T06:52:48+13:00</lastmod>
-  </url><url>
     <loc>https://iyuedu.top/tags/%E6%97%85%E6%B8%B8/</loc>
     <lastmod>2024-08-02T06:52:48+13:00</lastmod>
   </url><url>
@@ -1899,9 +1905,6 @@
     <lastmod>2024-04-08T06:59:22+13:00</lastmod>
   </url><url>
     <loc>https://iyuedu.top/posts/books/hbr-guide-to-better-business-writing/</loc>
-    <lastmod>2024-04-08T06:59:21+13:00</lastmod>
-  </url><url>
-    <loc>https://iyuedu.top/tags/%E5%86%99%E4%BD%9C/</loc>
     <lastmod>2024-04-08T06:59:21+13:00</lastmod>
   </url><url>
     <loc>https://iyuedu.top/posts/books/simply-english-an-a-z-of-avoidable-errors/</loc>
